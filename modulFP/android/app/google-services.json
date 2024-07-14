@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132867774584",
+    "project_id": "mobile-fp",
+    "storage_bucket": "mobile-fp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132867774584:android:df6c757441b62f4775f58d",
+        "android_client_info": {
+          "package_name": "com.modul.fp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB95u1tyCo8Ed-XPKW_7SewHEBLHxc-uII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
